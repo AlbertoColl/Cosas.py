@@ -68,30 +68,5 @@ while i != 0 and j != 0:
 print(alineamiento1[::-1])
 print(alineamiento2[::-1])
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
-        
-
-
-
-
-
-
+#Próximo paso: obtener todos los alineamientos posibles para dos secuencias, ya que actualmente solo devuelve uno, por defecto el que más se ajusta a la diagonal
 
